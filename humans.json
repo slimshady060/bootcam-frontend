@@ -1,0 +1,32 @@
+{
+	"humanos": [{
+			"name": "pepe",
+			"ege": 24,
+			"pets": ["cat", "dog", "fish"],
+			"friends": true,
+			"friendList": ["danna", "pacho", "el mono"]
+		},
+		{
+			"name": "andres",
+			"ege": 21,
+			"pets": ["cat", "hourse"],
+			"friends": false,
+			"friendList": ["danna", "pacho", "el mono"]
+		},
+		{
+			"name": "david",
+			"ege": 5,
+			"pets": ["lion", "birld"],
+			"friends": false,
+			"friendList": ["danna", "pacho", "el mono"]
+		},
+		{
+			"name": "camila",
+			"ege": 5,
+			"pets": ["cat", "dog"],
+			"friends": false,
+			"friendList": ["danna", "pacho", "el mono"]
+		}
+
+	]
+}
